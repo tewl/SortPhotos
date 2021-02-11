@@ -1,2 +1,2 @@
 # SortPhotos
-A utility that organized photos into datestamped folders.
+A utility that organizes photos into datestamped folders.
